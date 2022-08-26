@@ -1,6 +1,6 @@
 # Component Modeling using Bayesian NMF
 
-## Minimal code for runninng Bayesian NMF and consensus algorithms on voxel response matrices 
+_Minimal code for runninng Bayesian NMF and consensus algorithms on voxel response matrices_ 
 
-References: 
+
 
